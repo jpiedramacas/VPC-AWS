@@ -1,4 +1,4 @@
-# Lab 2: Construye tu VPC y Lanza un Servidor Web
+# Construye tu VPC y Lanza un Servidor Web
 
 ## Descripción y objetivos del laboratorio
 
@@ -13,19 +13,6 @@ Después de completar este laboratorio, deberías poder:
 - Configurar un grupo de seguridad.
 - Lanzar una instancia EC2 en una VPC.
 
-### Duración
-
-Este laboratorio toma aproximadamente 30 minutos para completarse.
-
-### Restricciones del servicio AWS
-
-En este entorno de laboratorio, el acceso a los servicios y acciones de AWS podría estar restringido a los necesarios para completar las instrucciones del laboratorio. Podrías encontrar errores si intentas acceder a otros servicios o realizar acciones más allá de las descritas en este laboratorio.
-
-### Escenario
-
-En este laboratorio, construirás la siguiente infraestructura:
-
-![Arquitectura](enlace_a_diagrama)
 
 ## Pasos del laboratorio
 
